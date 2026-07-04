@@ -31,7 +31,7 @@ The *PDF* files are saved in a subfolder *pdf*, *Word DOCX* files in *word* and 
 ### Note
 
 1. The script uses some standard *Python* libraries. If you don't have them installed on your system, then in the first run, the script will try to install these dependencies. If the script can't install these dependencies, for instance if your PC environment precludes it, then it will usually give you the console commands you can use to install these.
-2. If some of your libraries and executables sit outside the *Path*, such as if you don't have Admin rights to your work laptop, then you should include the folder addresses in the 'path.txt' file, which should sit in the same folder as the '*bulk_epub_converter.py*' file, e.g. '*C:\Users\Username\AppData\Roaming\Python\Python313\Scripts*' and '*C:\Users\Username\AppData\Roaming\Python\Python313\site-packages*'.
+2. If some of your libraries and executables sit outside the *Path*, such as if you don't have Admin rights to your work laptop, then you should include the folder addresses in the 'path.txt' file, which should sit in the same folder as the '*bulk-epub-converter.py*' file, e.g. '*C:\Users\Username\AppData\Roaming\Python\Python313\Scripts*' and '*C:\Users\Username\AppData\Roaming\Python\Python313\site-packages*'.
 
 ## Caveat
 
@@ -53,6 +53,6 @@ Installation is simple, but if you need help, check out https://www.anaconda.com
 
 *Anaconda* comes with *Spyder IDE*. Start *Spyder*.
 
-Once *Spyder* is ready, open the file 'bulk_epub_converter.py' that has the script.
+Once *Spyder* is ready, open the file 'bulk-epub-converter.py' that has the script.
 
 All that's left is for you to hit 'Run', i.e. the green 'Play' button.
